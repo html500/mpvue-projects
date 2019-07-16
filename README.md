@@ -2,6 +2,21 @@
 
 > A Mpvue project
 
+
+## 启动项目 
+```
+## 安装依赖
+cd mpvue-projects
+npm install
+
+## 启动构建
+npm run dev
+接下来，你只需要启动微信开发者工具，引入项目即可预览到 mpvue 小程序。
+
+[使用手册 ](http://mpvue.com/mpvue/)
+
+```
+
 ## Build Setup
 
 ``` bash
@@ -32,6 +47,6 @@ npm build:my
 
 # 生成 bundle 分析报告
 npm run build --report
-```
+
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
