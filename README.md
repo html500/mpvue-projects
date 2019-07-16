@@ -2,6 +2,16 @@
 
 > A Mpvue project
 
+# 安装依赖
+$ cd my-project
+$ npm install
+# 启动构建
+$ npm run dev
+
+## [使用手册 ](http://mpvue.com/mpvue/)
+
+
+
 ## Build Setup
 
 ``` bash
